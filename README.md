@@ -1,9 +1,5 @@
 # 🛒 SwiftCart: Point-of-Sale Billing & Inventory System
 
-![Project ID](https://img.shields.io/badge/Project_ID-CP--011-blue?style=flat-square)
-![Level](https://img.shields.io/badge/Level-Foundation-success?style=flat-square)
-![Domain](https://img.shields.io/badge/Domain-E--Commerce_%26_Retail-orange?style=flat-square)
-![Interface](https://img.shields.io/badge/Interface-Console_%7C_Web-purple?style=flat-square)
 
 **SwiftCart (CP-011)** is a dual-interface (Console & Web) Point-of-Sale (POS) billing and inventory management system designed for neighbourhood supermarkets. It eliminates manual billing bottlenecks at checkout counters by automating product lookups, promotional discount calculations, tax computation, receipt generation, and real-time stock synchronization.
 
